@@ -1,0 +1,3 @@
+[submodule "Line-Todo-Frontend"]
+	path = Line-Todo-Frontend
+	url = https://github.com/JoeKooler/Line-Todo-Frontend.git
