@@ -1,6 +1,16 @@
 # Line-Todo
 A simple todolist app that can actually store your task on line online :P
 
+![QRCode](https://i.imgur.com/tTroesvl.png)
+
+Add me
+
+# The Channel
+![LineChannel](https://i.imgur.com/dEFVTQ4.jpg)
+
+# The LIFF
+![LIFF](https://i.imgur.com/nlgznQ0.jpg)
+
 # Todo Frontend you can check out the front-end code detail right here
 https://github.com/JoeKooler/Line-Todo-Frontend
 
